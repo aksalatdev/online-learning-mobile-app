@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714467294235",
+    "project_id": "loginorregister-d236b",
+    "storage_bucket": "loginorregister-d236b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714467294235:android:b10e97d89b06ba93ebccbe",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714467294235-rco37el8g4scovd5uad72svchu94bnkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAheiE3Vw7_SgEJOs5Q-_RoQ-OG9rjwaqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714467294235-rco37el8g4scovd5uad72svchu94bnkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
